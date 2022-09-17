@@ -1,2 +1,0 @@
-# ncFNtest
-just a test
